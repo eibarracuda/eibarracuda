@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eibarracuda&show_icons=true&locale=en&layout=compact" alt="eibarracuda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eibarracuda&show_icons=true&locale=en" alt="eibarracuda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eibarracuda&show_icons=true&locale=en&theame-dark" alt="eibarracuda" /></p>
