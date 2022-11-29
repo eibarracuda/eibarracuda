@@ -2,6 +2,7 @@
 <h3 align="center">A developer in training from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eibarracuda&label=Profile%20views&color=0e75b6&style=flat" alt="eibarracuda" /> </p>
+![visitors](https://visitor-badge.glitch.me/badge?eibarracuda=eibarracudad&left_color=dark&right_color=red)
 
 <p align="left"> <a href="https://twitter.com/eibarracuda" target="blank"><img src="https://img.shields.io/twitter/follow/eibarracuda?logo=twitter&style=for-the-badge" alt="eibarracuda" /></a> </p>
 
