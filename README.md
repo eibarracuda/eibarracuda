@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/eibarracuda" target="blank"><img src="https://img.shields.io/twitter/follow/eibarracuda?logo=twitter&style=for-the-badge" alt="eibarracuda" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, UX Writting**
+- 🌱 I’m currently learning **Javascript** and everything tecnology relared
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +20,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/eibarracuda"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="eibarracuda" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eibarracuda&show_icons=true&locale=en&layout=compact" alt="eibarracuda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eibarracuda&show_icons=true&locale=en&layout=compact&theame=dark" alt="eibarracuda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eibarracuda&show_icons=true&locale=en&theame-dark" alt="eibarracuda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eibarracuda&show_icons=true&locale=en&theame=dark" alt="eibarracuda" /></p>
