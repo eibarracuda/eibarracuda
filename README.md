@@ -18,6 +18,9 @@
 - [caderno-pythonCollections](https://github.com/eibarracuda/caderno-pythonCollections)
   - Anotações sobre python collections
   - Jupyter notebooks, Python
+- [estudo-GCloud-Severless](https://github.com/eibarracuda/estudo-GCloud-Severless)
+  - Google Cloud Functions, Serverless
+  - Javascript
 - [dadospesquisaTCC-DC](https://github.com/eibarracuda/dadospesquisaTCC-DC)
   - Repositório de dados e jupyter notebooks que estou usando para minha pesquisa
   - Geração de gráficos e nuvens de palavras, outras analises quantitativas
