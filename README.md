@@ -1,9 +1,18 @@
+<h1 align="center"><a href="https://www.eibarracuda.art" target="blank"><img src="https://www.eibarracuda.art/img/user/XX%20-%20Anexos/assinaturamini.png" alt="assinatura"/></a></h1>
+
 <h1 align="center">Olá 👋, meu nome é Marta</h1>
 <h3 align="center">Desenvolvedor em treinamento - Brasil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eibarracuda&label=Profile%20views&color=0e75b6&style=flat" alt="eibarracuda" /> </p>
 <br>
 
+Tento **aprender em publico** no meu [jardim digital](https://www.eibarracuda.art)<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eibarracuda&show_icons=true&locale=en&layout=compact&theme=dracula" alt="eibarracuda" />
+</p>
+
+***
 <h3 align="left"> Projetos e o que desenvolvi neles:</h3>
 
 - [devweekgit.github.io](https://github.com/eibarracuda/devweekgit.github.io)
@@ -39,9 +48,7 @@
   - Repositório do meu jardim digital [Caderno de pesquisa - Eibarracuda](https://pesquisa-eibarracuda.vercel.app) 
   - CSS, HTML, Javascript, Markdown, Design
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eibarracuda&show_icons=true&locale=en&layout=compact&theme=dracula" alt="eibarracuda" />
-</p>
+
 
 <br>
 
