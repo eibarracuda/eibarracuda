@@ -21,6 +21,16 @@
 - [estudo-GCloud-Severless](https://github.com/eibarracuda/estudo-GCloud-Severless)
   - Google Cloud Functions, Serverless
   - Javascript
+- [estudo-GCloud_Endpoints](https://github.com/eibarracuda/estudo-GCloud_Endpoints)
+  - Google Cloud Endpoints
+  - Google App Engine
+  - Kubernetes
+- [apachebeam_estudos](https://github.com/eibarracuda/apachebeam_estudos)
+  - Pipeline de dados
+  - Python, Apache beam
+- [airflowalura](https://github.com/eibarracuda/airflowalura)
+  - Apache Airflow
+  - Python
 - [dadospesquisaTCC-DC](https://github.com/eibarracuda/dadospesquisaTCC-DC)
   - Repositório de dados e jupyter notebooks que estou usando para minha pesquisa
   - Geração de gráficos e nuvens de palavras, outras analises quantitativas
