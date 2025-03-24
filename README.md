@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://www.eibarracuda.art" target="blank"><img src="https://www.eibarracuda.art/img/user/XX%20-%20Anexos/assinaturamini.png" alt="assinatura"/></a></h1>
 
-<h1 align="center">Olá 👋, meu nome é Marta</h1>
+<h1 align="center">Olá 👋, meu nome é Marte</h1>
 <h3 align="center">Desenvolvedor em treinamento - Brasil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eibarracuda&label=Profile%20views&color=0e75b6&style=flat" alt="eibarracuda" /> </p>
